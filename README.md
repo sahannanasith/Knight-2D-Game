@@ -1,5 +1,9 @@
 # Knight-2D-Game
-A simple game built using HTML, CSS, and JavaScript. Enjoy playing and feel free to explore the code!
+A 2D Knight Game built using HTML, CSS, and JavaScript. In this game, you control a brave knight who must dodge incoming dragons by jumping over them. The dragons continuously move toward the knight, increasing the challenge as the game progresses. If the knight collides with a dragon, it's game over!
+
+The game features simple yet engaging mechanics, smooth animations, and an intuitive control system. Perfect for testing your reflexes and having fun!
+
+Feel free to explore the code, customize the gameplay, and enhance the experience!
 
 ![Image](https://github.com/user-attachments/assets/12e26571-8964-472c-80ef-f558a238482a)
 
